@@ -1,2 +1,4 @@
 # Big-Mart-Sales
-Python code for Big Mart sales problem on Analytics Vidhya
+<b>Python code for Big Mart sales problem on Analytics Vidhya</b>
+
+<b>Made some changes</b>
